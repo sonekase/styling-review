@@ -48,3 +48,19 @@ li {
 .fish-type {
   color: orange;
 }
+
+img {
+  float: left;
+  width: 500px;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
