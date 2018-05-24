@@ -1,17 +1,9 @@
-p.intro {
-  widt: 50%;
-  font-style: italic;
+.yolo {
+  width: 50%;
+  font-family: skia;
+  font-size: 18px;
+  color: red;
   text-align: center;
-}
-
-p.author {
-  width: 75%;
-  font-style: italic;
-  font-weight: bold;
-  text-align: center;
-}
-
-.zzz {
   display: block;
   margin-left: auto;
   margin-right: auto;
