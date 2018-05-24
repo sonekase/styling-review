@@ -35,3 +35,24 @@ li {
   font-family: skia;
   list-style: none;
 }
+
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+
+.list ul li {
+  list-style: decimal;
+  text-align: left;
+}
+
+.highlight {
+  color: yellow;
+}
+
+.fish-type {
+  color: orange;
+}
