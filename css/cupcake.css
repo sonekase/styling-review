@@ -1,0 +1,55 @@
+.flashy {
+  font-family: skia;
+  color: pink;
+  text-align: center;
+  font-size: 55px;
+}
+
+.best {
+  font-family: skia;
+  color: gray;
+  text-align: center;
+  font-size: 55px;
+}
+
+.best:hover {
+  color: pink;
+}
+
+.pic {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.dough {
+  text-align: center;
+  font-family: skia;
+  color: gray;
+  font-size: 25px;
+}
+
+.yum {
+  color: pink;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+.icons {
+  text-align: center;
+}
+
+.icons {
+  text-align: center;
+  color: pink;
+  font-size: 30px;
+}
+
+.icons a{
+  color: gray;
+}
+
+.icons a:hover {
+  color: pink;
+}
