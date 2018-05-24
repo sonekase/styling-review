@@ -1,39 +1,28 @@
-.drizzy {
+h1 {
+  color: red;
+  text-align: center;
+  font-family: courier;
+  font-size: 55px;
+}
+
+img {
+  display: inline-table;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
   font-family: courier;
   text-align: center;
+  color: gray;
+  font-size: 28px;
 }
 
-.music {
+p {
   font-family: courier;
   text-align: center;
-}
-
-.music li {
-  list-style: none;
-}
-
-.upcoming {
-  font-family: courier;
-  text-align: center;
-}
-
-.sidebar {
-  width: 35%;
-  float: right;
-  background-color: gold;
-  font-family: courier;
-}
-
-.social {
-  text-align: center;
-  color: black;
-}
-
-a {
-  text-decoration: none;
-  color: gold;
-  font: courier;
-  font-size: 20px;
+  color: gray;
+  font-size: 20;
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */

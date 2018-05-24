@@ -1,0 +1,15 @@
+h1 {
+  font-family: skia;
+  color: gray;
+  text-align: center;
+}
+
+img {
+  float: left;
+  width: 500px;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
