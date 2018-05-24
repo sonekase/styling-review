@@ -1,10 +1,37 @@
 p.intro {
   widt: 50%;
   font-style: italic;
+  text-align: center;
 }
 
 p.author {
   width: 75%;
   font-style: italic;
   font-weight: bold;
+  text-align: center;
+}
+
+.zzz {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.intro {
+  font-family: skia;
+  font-size: 18px;
+  color: gray;
+  text-align: center;
+}
+
+.intro2 {
+  color: red;
+  font-family: skia;
+  text-align: center;
+}
+
+li {
+  text-align: center;
+  font-family: skia;
+  list-style: none;
 }
