@@ -1,0 +1,48 @@
+.drizzy {
+  font-family: courier;
+  text-align: center;
+}
+
+.music {
+  font-family: courier;
+  text-align: center;
+}
+
+.music li {
+  list-style: none;
+}
+
+.upcoming {
+  font-family: courier;
+  text-align: center;
+}
+
+.social {
+  text-align: center;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  color: gold;
+  font: courier;
+  font-size: 20px;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+    .column {
+        -ms-flex: 50%;
+        flex: 50%;
+        max-width: 50%;
+    }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+        -ms-flex: 100%;
+        flex: 100%;
+        max-width: 100%;
+    }
+}
